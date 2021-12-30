@@ -1,10 +1,4 @@
-/****************************
-
-    Program Name : Bus Reservation System
-
-    Language Used : C++
-
-*****************************/
+//BUS RESERVATION SYSTEM...
 
 #include <conio.h>
 
